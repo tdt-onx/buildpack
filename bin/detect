@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "test2"
+exit 0
